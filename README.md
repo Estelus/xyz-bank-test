@@ -2,7 +2,7 @@
 
 ## Links
 
-- test site https://www.globalsqa.com/angularJs-protractor/BankingProject/
+- test site: https://www.globalsqa.com/angularJs-protractor/BankingProject/
 
 
 ## Commands
